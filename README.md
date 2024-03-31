@@ -13,7 +13,9 @@ The dataset is of a retail giant which gives promotion during festive seasons in
 
 <img width="329" alt="image" src="https://github.com/SuhasTantri/Promotion-and-sales-analysis/assets/88608896/4d529f23-ceb1-49f2-8637-f903e7c952cf">
 
-
+## Terminologies
+- Incremental Revenue percentage is the percentage increase or decrease in revenue after promo compared to revenue before promo
+- Incremental Sold Units Percentage is the percentage increase or decrease in units sold after promo compared to units sold before promo.
 
 
 ## Acknowledgements
